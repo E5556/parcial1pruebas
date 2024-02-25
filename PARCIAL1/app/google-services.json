@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803762686608",
+    "project_id": "parcial1-app-avan",
+    "storage_bucket": "parcial1-app-avan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803762686608:android:ebfddfc0db07f72d3e2615",
+        "android_client_info": {
+          "package_name": "com.example.parcial1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBooWFgHo_41U0RP3oURScl5uENRrx84mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
